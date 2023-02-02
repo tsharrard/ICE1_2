@@ -78,7 +78,7 @@ public class CardTrick {
      * @author Paul Bonenfant Jan 2022
      */
     
-   // I am done!
+   // I am done! like really done
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
