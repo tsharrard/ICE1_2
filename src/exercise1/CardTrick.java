@@ -96,7 +96,7 @@ public class CardTrick {
         System.out.println("-- Rust");
         System.out.println("-- Mindcraft");
         System.out.println("-- Rust");
-        System.out.println("-- Mindcraft");
+        System.out.println("-- Mindcraft and more minecraft");
 
         System.out.println();
         
